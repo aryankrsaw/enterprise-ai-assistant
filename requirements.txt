@@ -2,3 +2,6 @@ fastapi==0.141.1
 uvicorn
 python-dotenv
 ollama
+pymupdf
+sentence-transformers
+chromadb
